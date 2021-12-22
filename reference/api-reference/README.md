@@ -1,6 +1,6 @@
 # API Reference
 
-## Users
+## User
 
 Everything related to users:
 
