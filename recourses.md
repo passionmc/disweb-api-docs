@@ -1,8 +1,21 @@
 # Recourses
 
-## API - Link <a href="#api_links" id="api_links"></a>
+## Disweb - Links
 
-* [Github](https://github.com/diswebsite/)
-* [Disweb Bot](https://t.co/OD9a70YwVV)
-* [Discord Server](https://discord.gg/VhSSy2hHbX)
+* [Github](https://github.com/diswebsite)
+* [Disweb bot](https://t.co/OD9a70YwVV)
+* [Disweb ](https://discord.gg/VhSSy2hHbX)[Discord Server](https://discord.gg/VhSSy2hHbX)
+
+## Discord - Links&#x20;
+
+* [Discord Developer Documentation](https://discord.dev)
+* **Official** [Discord Developers Server](https://discord.gg/discord-developers)&#x20;
+* **Offical unoffical** [Discord API Server](https://discord.gg/discord-api)
+
+## Recommended Tools / Bots / etc
+
+* [Lixoja is a ](https://www.lixoja.xyz/invite)[cutting edge multipurpose bot for moderation, utility, fun and much more! You have questions about a command or a feature? ](https://www.lixoja.xyz)
+* [BrawlerStats is a bot can show stats from brawl stars profiles and clubs!](https://discord.com/api/oauth2/authorize?client\_id=922865205766135898\&permissions=274878286912\&scope=bot%20applications.commands)
+
+
 

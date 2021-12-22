@@ -2,7 +2,6 @@
 
 * [Welcome!](README.md)
 * [Recourses](recourses.md)
-* [Recourses](recourses-1.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
