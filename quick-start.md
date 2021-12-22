@@ -4,9 +4,11 @@
 
 To make your first request, retrieve information about a Discord user.
 
-{% swagger baseUrl="https://api.myapi.com/v1" summary="Get information about a discord user" path="/user/" method="get" %}
+{% swagger baseUrl="https://disweb.glitch.me" summary="Get information about a discord user" path="/vX/user/:USERID" method="get" %}
 {% swagger-description %}
 Get information about a discord user.
+
+![Run in Postman](https://run.pstmn.io/button.svg)
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="userid" required="true" type="snowflake" %}
@@ -17,7 +19,7 @@ The (Discord)
  of the respective user.
 {% endswagger-parameter %}
 
-{% swagger-response status="200" description="Pet successfully created" %}
+{% swagger-response status="200" description="Succesfully" %}
 ```javascript
 {
     "name"="Wilson",
@@ -30,53 +32,7 @@ The (Discord)
 ```
 {% endswagger-response %}
 
-{% swagger-response status="401" description="Permission denied" %}
+{% swagger-response status="404: Not Found" description="Not found" %}
 
 {% endswagger-response %}
 {% endswagger %}
-
-{% hint style="info" %}
-**Good to know:** You can use the API Method block to fully document an API method. You can also sync your API blocks with an OpenAPI file or URL to auto-populate them.
-{% endhint %}
-
-Take a look at how you might call this method using our official libraries, or via `curl`:
-
-{% tabs %}
-{% tab title="curl" %}
-```
-curl https://api.myapi.com/v1/pet  
-    -u YOUR_API_KEY:  
-    -d name='Wilson'  
-    -d species='dog'  
-    -d owner_id='sha7891bikojbkreuy'  
-```
-{% endtab %}
-
-{% tab title="Node" %}
-```javascript
-// require the myapi module and set it up with your API key
-const myapi = require('myapi')(YOUR_API_KEY);
-
-const newPet = away myapi.pet.create({
-    name: 'Wilson',
-    owner_id: 'sha7891bikojbkreuy',
-    species: 'Dog',
-    breed: 'Golden Retriever',
-})
-```
-{% endtab %}
-
-{% tab title="Python" %}
-```python
-// Set your API key before making the request
-myapi.api_key = YOUR_API_KEY
-
-myapi.Pet.create(
-    name='Wilson',
-    owner_id='sha7891bikojbkreuy',
-    species='Dog',
-    breed='Golden Retriever',
-)
-```
-{% endtab %}
-{% endtabs %}

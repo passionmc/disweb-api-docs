@@ -4,8 +4,8 @@
 
 Everything related to users:
 
-{% content-ref url="users.md" %}
-[users.md](users.md)
+{% content-ref url="user.md" %}
+[user.md](user.md)
 {% endcontent-ref %}
 
 ## Guilds
