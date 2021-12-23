@@ -6,11 +6,10 @@ description: >-
 # Changelog
 
 ## Some updates
-Hello there,
+#### Changelog
+Changelog are exists now!
 
-There are some Updates!
-
-### New api things
+#### New api things
 
 creation_date (User)guildcreation_date (Guild) and guildcreation_timestamp and creation_timestamp (Users) and some other updates!
 Look here: https://invalidlenni.gitbook.io/disweb
