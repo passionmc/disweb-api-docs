@@ -22,6 +22,7 @@ The guild ID from the discord guild.
     "guildemojis_count": "14",
     "guildownerID": "866047167760039938",
     "guildcreation_date": "Thu Oct 14 2021 16:15:45 GMT+0200 (Mitteleuropäische Sommerzeit)",
+    "creation_timestamp": 1614198724393
 }
 ```
 {% endswagger-response %}
@@ -34,8 +35,6 @@ The guild ID from the discord guild.
 ```
 {% endswagger-response %}
 {% endswagger %}
-
-
 
 {% hint style="warning" %}
 **IMPORTANT: You need the** [**Disweb Discord Bot**](https://discord.com/oauth2/authorize?client\_id=922865205766135898\&permissions=274877959168\&scope=bot%20applications.commands) **for guild GET-requests**

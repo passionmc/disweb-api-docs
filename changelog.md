@@ -36,4 +36,4 @@ I wish you have Merry Christmas and a Happy New Year! <3
 
 
 
-\~ Disweb Team (Actually only Lenni / InvalidLenni)
+\~ Lenni / InvalidLenni
