@@ -3,6 +3,7 @@
 * [Welcome!](README.md)
 * [Recourses](recourses.md)
 * [Quick Start](quick-start.md)
+* [Changelog](changelog.md)
 
 ## Reference
 
