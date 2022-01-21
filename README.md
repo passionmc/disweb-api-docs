@@ -1,14 +1,8 @@
----
-description: >-
-  Disweb is a simple & easy2use API for obtaining information about a discord
-  user, discord bot or discord guild and their use for some purpose on websites!
----
-
 # Welcome!
 
-## Welcome to Disweb
+## Welcome to MyAPI
 
-Welcome to Disweb API! Here you'll find all the documentation you need to get up and running with the Disweb API.
+Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
 ## Want to jump right in?
 
